@@ -1,0 +1,21 @@
+#domain
+hospital
+#levelname
+BFSFriendly
+#colors
+blue: 0,1,2,3
+#initial
+++++++
++    +
++ 01 +
++ 23 +
++    +
+++++++
+#goal
+++++++
++ 0  +
++   1+
++2   +
++  3 +
+++++++
+#end
